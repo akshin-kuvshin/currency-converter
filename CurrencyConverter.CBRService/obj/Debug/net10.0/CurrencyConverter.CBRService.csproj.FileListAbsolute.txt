@@ -1,0 +1,16 @@
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/bin/Debug/net10.0/CurrencyConverter.CBRService.deps.json
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/bin/Debug/net10.0/CurrencyConverter.CBRService.dll
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/bin/Debug/net10.0/CurrencyConverter.CBRService.pdb
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/bin/Debug/net10.0/CurrencyConverter.ConsoleLogger.dll
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/bin/Debug/net10.0/CurrencyConverter.ConsoleLogger.pdb
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/obj/Debug/net10.0/CurrencyConverter.CBRService.csproj.AssemblyReference.cache
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/obj/Debug/net10.0/CurrencyConverter.CBRService.GeneratedMSBuildEditorConfig.editorconfig
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/obj/Debug/net10.0/CurrencyConverter.CBRService.AssemblyInfoInputs.cache
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/obj/Debug/net10.0/CurrencyConverter.CBRService.AssemblyInfo.cs
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/obj/Debug/net10.0/CurrencyConverter.CBRService.csproj.CoreCompileInputs.cache
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/obj/Debug/net10.0/CurrencyConverter.CBRService.sourcelink.json
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/obj/Debug/net10.0/Currency.F58FF943.Up2Date
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/obj/Debug/net10.0/CurrencyConverter.CBRService.dll
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/obj/Debug/net10.0/refint/CurrencyConverter.CBRService.dll
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/obj/Debug/net10.0/CurrencyConverter.CBRService.pdb
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.CBRService/obj/Debug/net10.0/ref/CurrencyConverter.CBRService.dll

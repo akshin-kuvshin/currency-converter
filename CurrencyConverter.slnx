@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CurrencyConverter.Builder/CurrencyConverter.Builder.csproj" />
+  <Project Path="CurrencyConverter.CBRService/CurrencyConverter.CBRService.csproj" />
+  <Project Path="CurrencyConverter.ConsoleLogger/CurrencyConverter.ConsoleLogger.csproj" />
+  <Project Path="CurrencyConverter.Model/CurrencyConverter.Model.csproj" />
+  <Project Path="CurrencyConverter.View/CurrencyConverter.View.csproj" />
+</Solution>

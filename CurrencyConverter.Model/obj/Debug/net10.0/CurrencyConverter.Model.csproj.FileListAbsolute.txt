@@ -1,0 +1,12 @@
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.Model/bin/Debug/net10.0/CurrencyConverter.Model.deps.json
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.Model/bin/Debug/net10.0/CurrencyConverter.Model.dll
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.Model/bin/Debug/net10.0/CurrencyConverter.Model.pdb
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.Model/obj/Debug/net10.0/CurrencyConverter.Model.GeneratedMSBuildEditorConfig.editorconfig
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.Model/obj/Debug/net10.0/CurrencyConverter.Model.AssemblyInfoInputs.cache
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.Model/obj/Debug/net10.0/CurrencyConverter.Model.AssemblyInfo.cs
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.Model/obj/Debug/net10.0/CurrencyConverter.Model.csproj.CoreCompileInputs.cache
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.Model/obj/Debug/net10.0/CurrencyConverter.Model.sourcelink.json
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.Model/obj/Debug/net10.0/CurrencyConverter.Model.dll
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.Model/obj/Debug/net10.0/refint/CurrencyConverter.Model.dll
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.Model/obj/Debug/net10.0/CurrencyConverter.Model.pdb
+/home/akshin/Documents/repos/currency-converter/CurrencyConverter.Model/obj/Debug/net10.0/ref/CurrencyConverter.Model.dll

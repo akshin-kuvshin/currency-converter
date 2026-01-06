@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CurrencyConverter.CBRService/1.0.0": {
+        "dependencies": {
+          "CurrencyConverter.ConsoleLogger": "1.0.0"
+        },
+        "runtime": {
+          "CurrencyConverter.CBRService.dll": {}
+        }
+      },
+      "CurrencyConverter.ConsoleLogger/1.0.0": {
+        "runtime": {
+          "CurrencyConverter.ConsoleLogger.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CurrencyConverter.CBRService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CurrencyConverter.ConsoleLogger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
