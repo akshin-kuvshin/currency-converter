@@ -54,30 +54,41 @@ _Remark_: at startup, the program will try to update the XML-file with the curre
 
 _Remark_: commands can be typed **in any case**.
 
-1. **`exit`**, **`q`**, **`quit`** - terminates the program.
+**<u>1</u>.** **`exit`**, **`q`**, **`quit`** - terminates the program.
 
-2. **`h`**, **`help`** - displays help text (a list of available commands).
+**<u>2</u>.** **`h`**, **`help`** - displays help text (a list of available commands).
 
-3. **`l`**, **`list`** - displays a list of available currencies.
+**<u>3</u>.** **`l`**, **`list`** - displays a list of available currencies.
 
-4. **`update [_actual_date_]`** - updates an XML-file with currency rates actual for the latest day, not exceeding `_actual_date_`;
+**<u>4</u>.** **`update [_actual_date_]`** - updates an XML-file with currency rates actual for the latest day, not exceeding `_actual_date_`;
+
 _**Remark 1**_: the required format for `_actual_date_` is `dd.MM.yyyy`;
+
 _**Remark 2**_: `_actual_date_` is an **optional parameter**; its default value is "today" (means the day when the command was called);
+
 **Example**: `UpDaTe 01.02.2003`.
 
-5. **`load`** - loads all currencies from an XML-file to a converter and, if succeed, deletes the old ones.
+**<u>5</u>.** **`load`** - loads all currencies from an XML-file to a converter and, if succeed, deletes the old ones.
 
-6. **`reload [_actual_date_]`** - equals to `update [_actual_date_]` and `load` commands sequential calling;
+**<u>6</u>.** **`reload [_actual_date_]`** - equals to `update [_actual_date_]` and `load` commands sequential calling;
 _**Remarks 1 и 2**_: see remarks 1 & 2 for `update [_actual_date_]` command.
 
-7. **`_amount_ _char_code_from_ {to / -> / =>} _char_code_to_`** - converts `_amount_` units of currency with char code equals to `_char_code_from_` to currency with char code equals to `_char_code_to_`;
+**<u>7</u>.** **`_amount_ _char_code_from_ {to / -> / =>} _char_code_to_`** - converts `_amount_` units of currency with char code equals to `_char_code_from_` to currency with char code equals to `_char_code_to_`;
+
 _**Remark 1**_: `_amount_` must be a valid real number; the _decimal separator can be either a dot or a comma_;
+
 _**Remark 2**_: `_char_code_from_` and `_char_code_to_` must consist of 3 Latin letters;
+
 **Example 1**: `19999.99 rub -> kzt`;
+
 **Example 2**: `0,25 USd To JPy`.
 
-8. **`_char_code_from_ {to / -> / =>} _char_code_to_`** - calculates the F / T rate where F is the currency with char code equals to `_char_code_from_` and T is the currency with char code equals to `_char_code_to_`;
+**<u>8</u>.** **`_char_code_from_ {to / -> / =>} _char_code_to_`** - calculates the F / T rate where F is the currency with char code equals to `_char_code_from_` and T is the currency with char code equals to `_char_code_to_`;
+
 _**Remark 1**_: this command is equal to calling `1 _char_code_from_ {to / -> / =>} _char_code_to_`;
+
 _**Remark 2**_: see remark 2 for the previous command;
+
 **Example 1**: `BYB TO RUB`;
+
 **Example 2**: `rSd => tRy`.
